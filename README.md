@@ -12,6 +12,17 @@ Warburg Pincus, Sólides, TakeBlip, Eleva Educação, Superlógica, Americanet e
  
 
 
-
+<h2 dir="auto"> 🚦 Guia </h2>
+ <ul dir="auto">
+   <li> Primeiros Passos Com JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Conhecendo Funções JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Criando Objetos e Classes em JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Arrays e Estruturas de Repetição em JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Importação e Exportação com JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Introdução ao Desenvolvimento Web com JavaScript. <a href="https://"> Acessar </a></li>
+   <li> Criando um Projeto com HTML/CSS para Listagem de Pokémon. <a href="https://"> Acessar </a></li>
+   <li> Dominando o Protocolo HTTP e Integrando com a PokeAPI. <a href="https://"> Acessar </a></li>
+   <li> Construindo uma Pokédex com JavaScript. <a href="https://"> Acessar </a></li>
+ </ul>
 
 
