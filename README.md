@@ -7,7 +7,7 @@
 <h2> 🎯 Objetivo </h2>
 
 Programa com 151 horas de experiência educacionais que abrangem as principais tecnologias para se tornar um(a) profissional Fullstack. 
-Ao final do programa, os finalistas teram a oportunidade de ingressar em 6 grandes empresas, são elas: 
+Ao final do programa, os finalistas terão a oportunidade de ingressar em 6 grandes empresas, são elas: 
 Warburg Pincus, Sólides, TakeBlip, Eleva Educação, Superlógica, Americanet e Blu.
  
 
